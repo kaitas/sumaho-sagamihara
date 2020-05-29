@@ -1,5 +1,5 @@
-Sitemap: http://sumaho.sagamiharacitymuseum.jp/sitemap.xml
-Sitemap: http://sumaho.sagamiharacitymuseum.jp/news-sitemap.xml
+Sitemap: /sitemap.xml
+Sitemap: /news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
